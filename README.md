@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gommezen&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gommezen&limit=5&theme=dark&v=2)
+![](https://github-contributor-stats.vercel.app/api?username=gommezen&limit=5&theme=dark&use_rest=true)
 
 ## 📈 Activity
 [![gommezen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gommezen&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
